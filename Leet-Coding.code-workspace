@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "Leet Code",
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"batisteo.vscode-django",
+			"wholroyd.jinja",
+			"magicstack.magicpython",
+			"ms-python.python",
+			"visualstudioexptteam.vscodeintellicode"
+
+		]
+	}
+}
